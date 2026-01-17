@@ -22,3 +22,6 @@ pip install -r requirements.txt
 python data_generator.py
 python train_model.py
 streamlit run streamlit_app.py
+```
+## Live Demo
+https://system-failure-prediction.streamlit.app/
